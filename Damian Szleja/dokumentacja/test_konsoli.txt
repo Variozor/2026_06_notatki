@@ -1,0 +1,15 @@
+Dane wejściowe:
+Zakupy
+
+Wynik rzeczywistego uruchomienia:
+Podaj tytuł drugiej notatki:
+____________________
+Notatka WAŻNA! Nauka
+Powtórzyć zadania z Javy
+2026-10-15
+____________________
+____________________
+Notatka Zakupy
+
+2026-10-15
+____________________
